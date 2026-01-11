@@ -36,6 +36,7 @@ Each `Day-XX` folder contains:
 ## 📅 Challenge Progress
 - ✅ Day 01: Databricks Overview & Lakehouse Architecture
 - ✅ Day 02: Apache Spark Fundamentals
+- ✅ Day 03: PySpark Transformations Deep Dive
 - ⏳ Upcoming: Spark SQL, Performance Optimization, Delta Lake
 
 ---
