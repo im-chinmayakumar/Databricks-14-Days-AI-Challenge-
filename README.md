@@ -3,8 +3,8 @@
 This repository documents my **daily learnings, notes, and hands-on implementations**
 from the **Databricks 14 Days AI Challenge**.
 
-The goal of this challenge is to build strong foundations in **Databricks, Apache Spark,
-and data engineering concepts** through consistent daily practice.
+The goal of this challenge is to progressively build skills in **Databricks, Apache Spark,
+and data engineering**, moving from foundations to production-grade pipelines.
 
 ---
 
@@ -30,7 +30,7 @@ Each `Day-XX` folder contains:
 - Understand distributed data processing using Spark
 - Gain hands-on experience with Databricks notebooks
 - Apply data transformations on real-world datasets
-- Build reliable and scalable data pipelines
+- Build reliable, scalable, and production-ready data pipelines
 - Maintain a well-documented learning repository
 
 ---
@@ -43,11 +43,9 @@ Each `Day-XX` folder contains:
 - ✅ Day 03: PySpark Transformations Deep Dive  
 - ✅ Day 04: Delta Lake Introduction  
 
-### ⏳ Upcoming (Next Phases)
-- Spark SQL & Advanced Queries  
-- Performance Optimization  
-- Delta Lake Advanced Features  
-- End-to-End Data Pipelines  
+### 🚀 Phase 2: Data Engineering (In Progress)
+- ✅ Day 05: Delta Lake Advanced (Time Travel, MERGE, OPTIMIZE, VACUUM)  
+- ⏳ Upcoming: Spark SQL Advanced, Performance Optimization, Delta Lake Internals  
 
 ---
 
