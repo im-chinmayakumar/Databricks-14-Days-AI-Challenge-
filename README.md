@@ -4,7 +4,8 @@ This repository documents my **daily learnings, notes, and hands-on implementati
 from the **Databricks 14 Days AI Challenge**.
 
 The goal of this challenge is to progressively build skills in **Databricks, Apache Spark,
-and data engineering**, moving from foundations to **production-grade data pipelines and analytics**.
+and data engineering**, moving from foundations to **production-grade data pipelines,
+advanced analytics, and machine learning workflows**.
 
 ---
 
@@ -23,6 +24,7 @@ Each `Day-XX` folder contains:
 - SQL
 - Delta Lake
 - Unity Catalog
+- MLflow
 - Lakehouse Architecture
 
 ---
@@ -33,6 +35,7 @@ Each `Day-XX` folder contains:
 - Apply data transformations on real-world datasets
 - Build reliable, scalable, and production-ready data pipelines
 - Implement analytics, dashboards, and performance optimizations
+- Prepare data and workflows for machine learning
 - Maintain a well-documented learning repository
 
 ---
@@ -55,10 +58,17 @@ Each `Day-XX` folder contains:
 
 ---
 
-### 📊 Phase 3: Advanced Analytics (In Progress)
+### 📊 Phase 3: Advanced Analytics (Completed)
 - ✅ Day 09: SQL Analytics & Dashboards  
 - ✅ Day 10: Performance Optimization (Execution Plans, Partitioning, ZORDER, Caching)  
-- ✅ Day 11 (19/01/26) – Statistical Analysis & ML Preparation 📈
+- ✅ Day 11: Statistical Analysis & ML Preparation  
+
+---
+
+### 🤖 Phase 4: AI & ML (In Progress)
+- ✅ Day 12: MLflow Basics (Experiment Tracking & Model Logging)  
+- ✅ Day 13: Model Comparison & Feature Engineering  
+- ⏳ Upcoming: End-to-End ML Pipeline & Model Deployment  
 
 ---
 
