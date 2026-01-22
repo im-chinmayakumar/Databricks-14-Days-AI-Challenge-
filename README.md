@@ -5,7 +5,7 @@ from the **Databricks 14 Days AI Challenge**.
 
 The goal of this challenge is to progressively build skills in **Databricks, Apache Spark,
 and data engineering**, moving from foundations to **production-grade data pipelines,
-advanced analytics, and machine learning workflows**.
+advanced analytics, and AI/ML workflows**.
 
 ---
 
@@ -25,6 +25,8 @@ Each `Day-XX` folder contains:
 - Delta Lake
 - Unity Catalog
 - MLflow
+- Databricks Genie
+- Mosaic AI
 - Lakehouse Architecture
 
 ---
@@ -36,6 +38,7 @@ Each `Day-XX` folder contains:
 - Build reliable, scalable, and production-ready data pipelines
 - Implement analytics, dashboards, and performance optimizations
 - Prepare data and workflows for machine learning
+- Explore AI-powered analytics using GenAI
 - Maintain a well-documented learning repository
 
 ---
@@ -65,10 +68,21 @@ Each `Day-XX` folder contains:
 
 ---
 
-### 🤖 Phase 4: AI & ML (In Progress)
+### 🤖 Phase 4: AI & ML (Completed)
 - ✅ Day 12: MLflow Basics (Experiment Tracking & Model Logging)  
 - ✅ Day 13: Model Comparison & Feature Engineering  
-- ⏳ Upcoming: End-to-End ML Pipeline & Model Deployment  
+- ✅ Day 14: AI-Powered Analytics (Databricks Genie & Mosaic AI)  
+
+---
+
+## 🏁 Challenge Completion
+
+This repository represents the **successful completion of the Databricks 14 Days AI Challenge**, covering:
+
+- End-to-end data engineering pipelines  
+- Automation, governance, and optimization  
+- Advanced analytics and dashboards  
+- Machine learning and AI-powered analytics  
 
 ---
 
